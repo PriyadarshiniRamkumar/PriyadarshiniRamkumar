@@ -17,4 +17,4 @@ I specialize in building intelligent systems that combine **Deep Learning**, **C
 * [cite_start]**Tools:** MediaPipe Holistic, OpenCV, Scikit-learn, Pandas, NumPy.
 
 ---
- **Connect with me:** [priyadarshini10012005@gmail.com] | [Your LinkedIn Link]
+ **Connect with me:** [priyadarshini10012005@gmail.com] | [www.linkedin.com/in/priyadarshini-ramkumar-169171320]
